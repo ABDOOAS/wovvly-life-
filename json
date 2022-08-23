@@ -1,0 +1,57 @@
+{
+ "applovin_appkey":"WTye_OVSeh5tTQ24-pu8upNeVWu-dTtKRDS2wVpE2k7ObE_6xppDOmNxwTckXFeUfTcmDuvTFw3s7TgZnQ9hqL",
+"applovin_banner":"d12974352ba86aba",
+"applovin_inter":"16c6b89593bac24b",
+"applovin_reword":"44b4e579a4c13b5e",
+"admob_banner":"",
+"admob_inter":"ca-app-pub-5262967769339762/6693753244",
+"admob_reword":"ca-app-pub-5262967769339762/3876018213",
+"iron_appkey":"",
+"iron_banner":"",
+"iron_inter":"",
+"iron_reword":"",
+"fan_banner":"781330486205231_781334499538163",
+"fan_inter":"781330486205231_781334499538163",
+"fan_reword":"781330486205231_781334499538163",
+"adclony_appkey":"",
+"adclony_banner":"",
+"adclony_inter":"",
+"adclony_reword":"",
+"unity_appkey":"4896988",
+"unity_banner":"Banner_Android",
+"unity_inter":"Interstitial_Android",
+"unity_reword":"Rewarded_Android",
+"mopub_banner":"",
+"mopub_inter":"",
+"mopub_reword":"",
+"vungle_appkey":"",
+"vungle_banner":"",
+"vungle_inter":"",
+"vungle_reword":"",
+"chartboost_appkey":"",
+"app_signature":"",
+"heyzap_appkey":"",
+"heyzap_banner":"",
+"heyzap_inter":"",
+"heyzap_reword":"",
+
+"urlimages":[
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/ss_2fb45e66d1b4e8c3d8fe6743fad278bcc082c2d5.1920x1080.jpg",
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/ss_5cdb7d8147767fece03a9a69a10af64a2e0c5e47.1920x1080.jpg",
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/ss_833de2e09f19972bb9e7db021c793da6afdab8a0.1920x1080.jpg",
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/ss_8c944c593113598b6446b6b5d07962a10fe79ec6.1920x1080.jpg",
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/ss_ac60173eb6d72af743d65c118b3e9df7453dcb61.1920x1080.jpg",
+             "https://raw.githubusercontent.com/ABDOOAS/plateup/main/Nouveau%20projet%20(1).png"
+             ],
+ "textes":[
+           "PlateUp! combines chaotic kitchen and restaurant management with strategic planning and development to create a delightful roguelite dish unlike any other",
+           "Up to four players build and run a restaurant from scratch, choosing dishes, buying and placing appliances – some of which can be daisy-chained together to create ambitious automatic kitchens – cooking food and serving customers.",
+           "Players have free rein to design their restaurant which will expand and develop between shifts – with additional content and challenges unlocked through progression.",
+           "Can you cook, serve and manage your way through 15 hectic days in your restaurant and unlock a brand-new franchise?",
+           "Classic co-op cooking action, with a wide selection of mains, sides, sauces, toppings, desserts, and starters."
+           ],
+"QuiteTxt":"n",
+"ad_type":"unity"
+
+             
+}
